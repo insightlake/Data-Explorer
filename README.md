@@ -7,13 +7,14 @@ What is InsightLake Data Explorer?
 InsightLake Data Explorer solution is part of InsightLake Data Platform. It provides an intuitive UI and allows users to connect to various data sources and explore the data eaisly.
 
 Users can explore data from diferent sources like:
-* File Systems : S3, HDFS
+* File Systems : S3, HDFS, FTP, SFTP
 * Relational Databases : Oracle, MySQL, Postgres, SQL Server, DB2
 * MPP Databases : Redshift, Impala, Presto
 * Big Data : Hive
 * NOSQL : Mongo, Hbase, Cassandra
 * Search : SOLR, Elastic Search
 * Streams : Kafka, Kinesis
+* APIs
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
