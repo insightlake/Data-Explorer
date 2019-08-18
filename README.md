@@ -1,5 +1,5 @@
 
-<img style="width:100%;" src="dataexplorer.png">
+<img style="width:100%;" src="images/dataexplorer.png">
 
 What is InsightLake Data Explorer?
 -----------
