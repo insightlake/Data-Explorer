@@ -16,6 +16,28 @@ Users can explore data from diferent sources like:
 * Streams : Kafka, Kinesis
 * APIs
 
+Explore Data
+-------
+<img style="width:100%;" src="images/data-tab/explore-data-tab.png">
+
+Profile Data
+-------
+<img style="width:100%;" src="images/data-tab/data-profile-tab.png">
+
+Pivot Data
+-------
+<img style="width:100%;" src="images/data-tab/pivot-data-view.png">
+
+Data Location
+-------
+<img style="width:100%;" src="images/datalocation-tab/data-location.png">
+
+
+Data Store
+-------
+<img style="width:100%;" src="images/data-store-tab/data-store-page.png">
+
+
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
 Installation
