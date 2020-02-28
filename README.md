@@ -18,24 +18,39 @@ Users can explore data from diferent sources like:
 
 Explore Data
 -------
-<img style="width:100%;" src="images/data-tab/explore-data-tab.png">
+* Data
+<img style="width:100%;" src="images/data-tab/explore-data-page.png">
 
-Profile Data
--------
-<img style="width:100%;" src="images/data-tab/data-profile-tab.png">
+* Profile Data
+<img style="width:100%;" src="images/data-tab/data-profile.png">
 
-Pivot Data
--------
-<img style="width:100%;" src="images/data-tab/pivot-data-view.png">
+* Pivot table
+<img style="width:100%;" src="images/data-tab/pivot-table.png">
 
 Data Location
 -------
-<img style="width:100%;" src="images/datalocation-tab/data-location.png">
+* Locations
+<img style="width:100%;" src="images/datalocation-tab/data-location-page.png">
 
+* Add Location
+<img style="width:100%;" src="images/datalocation-tab/add-datalocation.png">
 
 Data Store
 -------
+* Stores
 <img style="width:100%;" src="images/data-store-tab/data-store-page.png">
+
+* Add Store
+<img style="width:100%;" src="images/data-store-tab/add-store.png">
+
+
+Users & Groups
+-------
+* Users
+<img style="width:100%;" src="images/users-tab/users-page.png">
+
+* Groups
+<img style="width:100%;" src="images/users-tab/group-page.png">
 
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
