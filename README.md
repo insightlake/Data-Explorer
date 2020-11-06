@@ -16,6 +16,55 @@ Users can explore data from diferent sources like:
 * Streams : Kafka, Kinesis
 * APIs
 
+
+ ## Explore Data 
+   Data Explorer enables data exploration of structured and unstructured data in an intuitive way. Users can view structured data from databases, files (CSV, JSON) or unstructured data like images, videos, audios, documents.
+
+Bellow are some of the examples:
+
+  ### Structured Data
+  
+ <img style="width:100%;" src="images/data-explorer.png">
+ 
+ ### Data Profile View
+  Shows data profile, which includes data types and distribution.
+
+ <img style="width:100%;" src="images/data-profile.png">
+ 
+ ### Pivot Data View
+  For easier exploration Pivot view is provided
+
+ <img style="width:100%;" src="images/pivot-data.png">
+ 
+ ### Image View
+  
+ <img style="width:100%;" src="images/image-view.png">
+ 
+ ### Video View
+  
+ <img style="width:100%;" src="images/video-view.png">
+ 
+ ### Audio View
+  
+ <img style="width:100%;" src="images/audio-view.png">
+ 
+ ### PDF View
+  
+ <img style="width:100%;" src="images/pdf-view.png">
+ 
+ ## Data Location
+ 
+ <img style="width:100%;" src="images/data-location.png">
+ 
+ ## Data Store
+ 
+ <img style="width:100%;" src="images/data-store.png">
+ 
+ 
+## Users
+ Administrators can manage users, groups and roles to enforce role based access control.
+  <img style="width:100%;" src="images/user.png">
+
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
 Installation
