@@ -65,7 +65,7 @@ Bellow are some of the examples:
  Administrators can manage users, groups and roles to enforce role based access control.
   <img style="width:100%;" src="images/user.png">
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://insightlake.com/data-explorer.html](http://insightlake.com/data-explorer.html)
 
 Installation
 ------
