@@ -20,18 +20,22 @@
 
 	<modules>
 		<module>edp-db</module>
-		<module>edp-api-user</module>
 		<module>edp-common</module>
+		<module>edp-api-user</module>
 		<module>edp-notify</module>
 		<module>edp-cluster</module>
 		<module>edp-schema-reg</module>
 		<module>edp-zookeeper</module>
-		<module>edp-cluster-verification</module>
 		<module>edp-kafka</module>
 		<module>edp-api-data</module>
 		<module>edp-notebook</module>
+		<module>edp-kafka-designer-ui</module>
 		<module>edp-cloud-lake</module>
 		<module>edp-catalog</module>
+		<module>edp-classification</module>
+        <module>edp-image-viewer</module>
+        <module>edp-classification-cli</module>
+		<module>edp-ocr</module>
 		<module>edp-security</module>
 		<module>edp-query</module>
 		<module>edp-kconnect</module>
@@ -39,26 +43,33 @@
 		<module>edp-kafka-perf</module>
 		<module>edp-mockdata</module>
 		<module>edp-io</module>
+		<module>edp-consumer-producer</module>
 		<module>edp-stream-fetch</module>
 		<module>edp-ftp</module>
 		<module>edp-profile</module>
 		<module>edp-config</module>
 		<module>edp-git</module>
 		<module>edp-excel</module>
+		<module>edp-s3</module>
 		<module>edp-security-api</module>
 		<module>edp-datascience</module>
 		<module>edp-datascience-ui</module>
 		<module>edp-dashboard-ui</module>
+		<module>edp-visualizer-ui</module>
 		<module>kafka-report</module>
 		<module>edp-csr</module>
+		<module>edp-bot</module>
 		<module>edp-api-csr</module>
 		<module>edp-kafka-sasl</module>
 		<module>edp-calls-analytics</module>
+		<module>edp-call-insights</module>
 		<module>transcript-mock-data</module>
 		<module>mongo-mock-data</module>
         <module>edp-cluster-verification-ui</module>
 		<module>edp-security-api-ui</module>
 		<module>edp-explorer-ui</module>
+		<module>edp-metadata-ui</module>
+		<module>edp-data-management-ui</module>
 		<module>edp-schema-ui</module>
 		<module>edp-zookeeper-ui</module>
 		<module>edp-streams-ui</module>
@@ -83,6 +94,8 @@
 		<module>edp-process-csr</module>
 
 		<module>edp-report-maker</module>
+		<module>edp-gcs</module>
+		<module>edp-azure</module>
 	</modules>
 	<distributionManagement>
 
@@ -92,11 +105,6 @@
 			<url>s3://vserve-edp/snapshots</url>
 		</repository>
 	</distributionManagement>
-	<!-- <dependencyManagement> <dependencies> <dependency> <groupId>org.springframework.boot</groupId> 
-		<artifactId>spring-boot-starter-data-jpa</artifactId> </dependency> <dependency> 
-		<groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId> 
-		</dependency> </dependencies> </dependencyManagement> -->
-
 
 	<build>
 		<plugins>
